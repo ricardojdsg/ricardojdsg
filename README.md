@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
+<p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardojdsg&show_icons=true&locale=en" alt="ricardojdsg" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardojdsg" alt="ricardojdsg" />
 </p>
